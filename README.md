@@ -1,5 +1,10 @@
 # aliengame
 
+## Game made from Sarah Drasners Vue front end masters course.
+
+The game is build using Vue3 and deployed using netlify.
+[Live Game](https://jovial-easley-7f3aa9.netlify.app/)
+
 ## Project setup
 ```
 npm install
